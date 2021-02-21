@@ -31,7 +31,7 @@
 
 .Seeds1:after {
   content: "";
-  width: 100%;
+  width: 60%;
   height: 100%;
   position: absolute;
   background-color: white;
@@ -44,14 +44,14 @@
 
 .Seeds1:before {
   content: "";
-  width: 100%;
+  width: 60%;
   height: 100%;
   position: absolute;
   background-color: white;
   left: 180%;
   top: -50%;
   border-radius: 40%;
-  transform: rotate(60deg);
+  transform: rotate(90deg);
   box-shadow: inset -1px -3px #c9c9c9;
 }
 
@@ -69,7 +69,7 @@
 
 .Seeds2:before {
   content: "";
-  width: 100%;
+  width: 60%;
   height: 100%;
   position: absolute;
   background-color: white;
