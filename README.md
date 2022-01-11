@@ -2,7 +2,7 @@
 
 While this is not my own project I find it very valuable during my early days of learning to keep my GitHub skills up to date by pushing this project and creating stories for it as I go.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Firebase setup
 
